@@ -1,11 +1,12 @@
 import 'package:flutter/material.dart';
-// import 'getstarted.dart';
-//
-// void main() => runApp(MoviesApp());
+
+import 'getstarted.dart';
+void main() => runApp(MoviesApp());
 
 // phase1
-import 'challenge.dart';
-void main() => runApp(MoviesApp());
+// import 'phase0.dart';
+// void main() => runApp(MoviesApp());
+
 
 // capturing 1 tails
 // import 'challenge.dart';
